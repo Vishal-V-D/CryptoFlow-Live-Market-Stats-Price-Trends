@@ -33,13 +33,13 @@ Clone the repository:
 git clone https://github.com/Vishal-V-D/CryptoFlow-Live-Market-Stats-Price-Trends.git
 cd CryptoFlow-Live-Market-Stats-Price-Trends
 ```
-##Linux and MacOS
+Linux and MacOS
 ```bash
 python3 -m venv venv
 source venv/bin/activate
 
 ```
-
+Windows
 ```bash
 python -m venv venv
 venv\Scripts\activate
@@ -48,6 +48,8 @@ venv\Scripts\activate
 pip install -r requirements.txt
 
 ```
+
+To run the app
 ```bash
 streamlit run crypto.py
 
