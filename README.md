@@ -54,4 +54,19 @@ To run the app
 streamlit run crypto.py
 
 ```
-###Screenshots
+Screenshots
+
+![image](https://github.com/user-attachments/assets/ebe650f4-27d6-4db6-8a58-fbfe99422944)
+
+![WhatsApp Image 2025-01-03 at 15 07 09_17293c83](https://github.com/user-attachments/assets/9eb7ee49-519c-4a2b-8f36-2ef03e7a12f5)
+
+![WhatsApp Image 2025-01-03 at 15 10 55_f1205222](https://github.com/user-attachments/assets/1cb3f372-181d-41ed-b02b-8b1e4d622ffa)
+
+
+![WhatsApp Image 2025-01-03 at 15 09 41_306c1bad](https://github.com/user-attachments/assets/b7f5aa36-9d93-4911-b601-9e3f4dd1732b)
+
+
+
+
+
+
